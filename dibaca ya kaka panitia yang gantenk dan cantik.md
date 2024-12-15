@@ -13,6 +13,8 @@ Project ini terdapat 2 File yang berbeda di dalam 1 Repo, yaitu Frontend dan Bac
 - go get (jika pertama kali)
 - go run main.go (untuk menjalankan projectnya)
 
+PASTIKAN SUDAH MENGINSTALL GOLANG YAA
+
 
 Berikut adalah akun beserta password untuk login:
 
