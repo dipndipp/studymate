@@ -5,7 +5,7 @@
 Project ini terdapat 2 File yang berbeda di dalam 1 Repo, yaitu Frontend dan Backend.
 
 ### untuk Run Frontend dapat Menggunakan log : 
-- npm install (jika pertama kali)
+- npm install (jika pertama kali, karena node modules tidak disertakan)
 - npm run dev (untuk menjalankan projectnya)
 
 ### untuk Run Backend dapat menggunakan log :
